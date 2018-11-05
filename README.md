@@ -1,7 +1,7 @@
 # Dimostrazione del pattern Observer
 
 Dimostrazione dell'utilizzo del pattern comportamentale: Observer.<br/>
-L'oggetto <i>Elaboration</i> viene <i>"osservato" <code>Observable</code>)</i> da due
+L'oggetto <i>Elaboration</i> viene <i>"osservato" <code>Observable</code></i> da due
 istanze di classi diverse.<br/>Quando lo stato di <i>Elaboration</i> varia, i due
 <i>"osservatori" <code>Observer</code></i> elaborano il nuovo stato.
 <p>
